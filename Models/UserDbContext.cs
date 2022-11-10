@@ -32,6 +32,6 @@ namespace WebAPI_CodeWay.Models
 
 
         public DbSet<UserInfo> UsersDB { get; set; }
-
+        // added this code to child-branch
     }
 }
